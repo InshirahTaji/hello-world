@@ -1,0 +1,16 @@
+Little bit group discussion has also done for the functions defination and prototype.
+
+From my senior regarding how to combine the different files together and how to write the main.
+
+From internet :- 
+
+		For the implementation of basic commands - 
+
+			(i) https://www.geeksforgeeks.org/grep-command-in-unixlinux/ - for the implementation of basic commands.
+			 (ii) https://www.tecmint.com/12-practical-examples-of-linux-grep-command/
+		    	(iii) https://www.ostechnix.com/the-grep-command-tutorial-with-examples-for-beginners/
+
+		For adding text color - 
+
+			(i) http://web.theurbanpenguin.com/adding-color-to-your-output-from-c/
+			(ii) https://stackoverflow.com/questions/3585846/color-text-in-terminal-applications-in-unix
